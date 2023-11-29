@@ -23,6 +23,22 @@ impl Default for DetailedMuscle {
 }
 
 pub enum MuscleAction {
+    Abduction,
+    Adduction,
+    Elevation,
+    Flexion,
+    Inversion,
+    Eversion,
+    Extension,
+    Plantarflexion,
+    Dorsiflexion,
+    Pronation,
+    Supination,
+    Protraction,
+    Retraction
+}
+
+pub enum ContractionType {
     Concentric,
     Eccentric,
     Isometric

@@ -1,0 +1,15 @@
+name = "Biceps Brachii"
+common_name = "Biceps"
+
+[details]
+description = "The biceps or biceps brachii (Latin: musculus biceps brachii, \"two-headed muscle of the arm\") is a large muscle that lies on the front of the upper arm between the shoulder and the elbow."
+location = "UpperLimb"
+action = "Flexion"
+
+[images.male]
+front = "muscles/bicep/male/front.png"
+back = "muscles/bicep/male/back.png"
+
+[images.female]
+front = "muscles/bicep/female/front.png"
+back = "muscles/bicep/female/back.png"
