@@ -1,0 +1,15 @@
+name = "Triceps Brachii"
+common_name = "Triceps"
+
+[details]
+description = "The triceps, or triceps brachii (Latin for \"three-headed muscle of the arm\"), is a large muscle on the back of the upper limb of many vertebrates. It consists of 3 parts: the medial, lateral, and long head. It is the muscle principally responsible for extension of the elbow joint (straightening of the arm)."
+location = "UpperLimb"
+action = "Extension"
+
+[images.male]
+front = "muscles/tricep/male/front.png"
+back = "muscles/tricep/male/back.png"
+
+[images.female]
+front = "muscles/tricep/female/front.png"
+back = "muscles/tricep/female/back.png"
